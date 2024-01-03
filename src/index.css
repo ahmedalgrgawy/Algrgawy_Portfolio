@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-[Raleway] bg-primary text-white capitalize;
+    }
+
+
+
+    li {
+        @apply p-4 cursor-pointer duration-500;
+    }
+
+
+    .mobileNav li {
+        @apply py-6 text-3xl;
+    }
+
+
+    .social li {
+        @apply w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px];
+    }
+
+    .social li a {
+        @apply flex justify-between items-center w-full text-white;
+    }
+
+    .title {
+        @apply text-4xl font-bold inline border-b-4 border-secondary;
+    }
+
+    .img-container {
+        @apply shadow-md shadow-[#040c16] hover:scale-110 duration-500;
+    }
+
+    .content {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 250px;
+    }
+
+    .content:hover {
+        transition: 0.5s;
+        background-image: linear-gradient(to right,
+                rgba(150, 255, 112, 0.8),
+                hsla(118, 74%, 62%, 0.8)) !important;
+    }
+
+
+    .project-btn {
+        @apply text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg
+    }
+}
