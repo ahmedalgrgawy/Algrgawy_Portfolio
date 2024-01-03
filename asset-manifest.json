@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Algrgawy_Portfolio/static/css/main.0758dac9.css",
+    "main.js": "/Algrgawy_Portfolio/static/js/main.e3ea28d3.js",
+    "static/media/coffe-website.png": "/Algrgawy_Portfolio/static/media/coffe-website.4c54b34fa24216a31632.png",
+    "static/media/food.png": "/Algrgawy_Portfolio/static/media/food.06e4779e1530f352f722.png",
+    "static/media/e-commerce.png": "/Algrgawy_Portfolio/static/media/e-commerce.c52f3583d1a9e71b0464.png",
+    "static/media/real-state.png": "/Algrgawy_Portfolio/static/media/real-state.ee6197ffebe4ad8f3059.png",
+    "static/media/portfolio.png": "/Algrgawy_Portfolio/static/media/portfolio.c005c9917aed380f6b3f.png",
+    "static/media/dashboard.png": "/Algrgawy_Portfolio/static/media/dashboard.c81db32d67ec7df5d6e3.png",
+    "static/media/social.png": "/Algrgawy_Portfolio/static/media/social.34cf3486534280651339.png",
+    "static/media/Ahmed.jpeg": "/Algrgawy_Portfolio/static/media/Ahmed.f0aacd85ee75de2d8755.jpeg",
+    "static/media/bootstrap.png": "/Algrgawy_Portfolio/static/media/bootstrap.c5b2fc44d37fd3864947.png",
+    "static/media/quiz.png": "/Algrgawy_Portfolio/static/media/quiz.597b302394c6939dbde3.png",
+    "static/media/cruds.png": "/Algrgawy_Portfolio/static/media/cruds.d94fdc7a261fc6737e50.png",
+    "static/media/react.png": "/Algrgawy_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/letter-a.png": "/Algrgawy_Portfolio/static/media/letter-a.47af3f93357dc24c5c43.png",
+    "static/media/html.png": "/Algrgawy_Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Algrgawy_Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Algrgawy_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/Algrgawy_Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/sass.png": "/Algrgawy_Portfolio/static/media/sass.1e7800226257cf0a44bf.png",
+    "static/media/javascript.png": "/Algrgawy_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/pug.svg": "/Algrgawy_Portfolio/static/media/pug.e22b8f03c7f0899d14cdaf125cc7d3e9.svg",
+    "index.html": "/Algrgawy_Portfolio/index.html",
+    "main.0758dac9.css.map": "/Algrgawy_Portfolio/static/css/main.0758dac9.css.map",
+    "main.e3ea28d3.js.map": "/Algrgawy_Portfolio/static/js/main.e3ea28d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0758dac9.css",
+    "static/js/main.e3ea28d3.js"
+  ]
+}
